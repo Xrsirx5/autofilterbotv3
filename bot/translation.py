@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot only for my group @A6rzuxpt69drdr6t9d5
 For More Details Click Help Button Below..
 @A6rzuxpt69drdr6t9d5
-</i>"""    
+  
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
