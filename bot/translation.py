@@ -5,9 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot only for my group
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<i>Am Just A Advance Auto Filter Bot only for my group ❗
 
 For More Details Click Help Button Below..
 @A6rzuxpt69drdr6t9d5
